@@ -7,5 +7,5 @@ python manage.py migrate
 python manage.py runserver   
 
 ## how to use it?
-ni xiang zenme yong jiu zenme yong 
+ni xiang zenme yong jiu zenme yong    
 you bu shi bu neng yong 
