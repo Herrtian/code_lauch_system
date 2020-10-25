@@ -1,11 +1,11 @@
-# code_lauch_system
-## how to start the program
+# Code_Launch_System
+## Starts the program
 
 pip install -r requirments.txt   
 python manage.py makemigrations   
 python manage.py migrate   
 python manage.py runserver   
 
-## how to use it?
-ni xiang zenme yong jiu zenme yong    
-you bu shi bu neng yong 
+## How to use it?
+
+You can use it by what you want.
